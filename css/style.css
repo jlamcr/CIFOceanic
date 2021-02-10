@@ -585,7 +585,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-header p {
-  text-align: center;
+  text-align: justify;
   padding-bottom: 30px;
   color: #333;
 }
