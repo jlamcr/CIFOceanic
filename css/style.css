@@ -640,6 +640,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 0;
 }
 
+.nav-pills .nav-link {
+  border-radius: 0.20rem; }
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #bea34d; 
+}
+
 /* About Us Section
 --------------------------------*/
 
